@@ -1,0 +1,8 @@
+{
+  "name": "Polyglot AI Translator",
+  "description": "A modern, AI-powered translation app supporting multiple languages with auto-detection, copy-to-clipboard, and text-to-speech features.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
